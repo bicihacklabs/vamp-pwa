@@ -6,17 +6,20 @@
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis_Tu_vLq-P7R3R0_uI2_u_vLq-P7R3R0_uI2_u_vLq-P7R3R0_uI2_u_vLq-P7R3R/s192/icon-192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "any maskable"
     },
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis_Tu_vLq-P7R3R0_uI2_u_vLq-P7R3R0_uI2_u_vLq-P7R3R0_uI2_u_vLq-P7R3R/s512/icon-512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "any maskable"
     }
   ],
-  "start_url": "https://5577505873.blogspot.com/?m=1",
+  "start_url": "/?m=1",
   "background_color": "#000000",
   "display": "standalone",
-  "scope": "https://5577505873.blogspot.com/",
-  "theme_color": "#ca0000"
+  "scope": "/",
+  "theme_color": "#ca0000",
+  "orientation": "portrait"
 }
