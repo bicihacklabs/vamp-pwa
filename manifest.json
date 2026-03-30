@@ -14,9 +14,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://5577505873.blogspot.com/?m=1",
+  "start_url": "https://5577505873.blogspot.com/",
   "background_color": "#000000",
   "display": "standalone",
   "scope": "https://5577505873.blogspot.com/",
-  "theme_color": "#ff0000"
+  "theme_color": "#ca0000"
 }
